@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gustavo Teixeira
 -  I’m interested in games, programming.
--  I’m currently learning JavaScript and Pyhton
+-  I’m currently learning JavaScript and Python
 -  I’m looking to collaborate on any project that can help me learn more about programming and softwares
 -  How to reach me: You can dm me on discord @lilguz#0376
 -  I was born in Brazil and have lived here for my whole life
