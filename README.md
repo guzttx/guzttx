@@ -1,10 +1,2 @@
 - 👋 Hi, I’m Gustavo Teixeira
--  I’m interested in games, programming.
--  I’m currently learning JavaScript and Python
--  I’m looking to collaborate on any project that can help me learn more about programming and softwares
--  How to reach me: You can dm me on discord @lilguz#0376
--  I was born in Brazil and have lived here for my whole life
--  I speak brazilian portuguese and english fluently, speak spanish fairly well.
--  I'm currently learning italian and french too.
--  I'm a lover of gaming and music since I was a newborn, so I'd be extremely happy to help in any project about these 2 activities.
--  I've been studying about the stock market and trading for the last couple of weeks, mainly because that's where the money is, but I'm enjoying the experience.
+- 
